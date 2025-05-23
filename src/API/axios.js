@@ -1,8 +1,8 @@
 import axios from 'axios'
 
 const axiosBase = axios.create({
-    baseURL:'https://evangadi-forum-backend-4wku.onrender.com/api'
-})
+  baseURL: "https://evangadi-forum-backend-an0g.onrender.com/api",
+});
 
 
 // axiosBase.interceptors.request.use(

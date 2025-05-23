@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import logo from "../../Images/evangadi-logo.png";
 import "./Footer.css";
-import "@fortawesome/fontAwesome-free/css/all.min.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
 function Footer() {
   return (
